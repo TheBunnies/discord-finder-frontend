@@ -1,7 +1,7 @@
 # About
 This is the frontend application for **Discord Finder**, it allows you to retrive information about people on discord just like the [discord lookup](https://discord.id/) website but without captcha and you can host it on your own machine.
 
-![discord finder](https://imgur.com/9Un160l)
+![discord finder](https://i.imgur.com/9Un160l.png)
 
 # Back-end
 The back-end for this application can be found [here](https://github.com/TheBunnies/discord-finder).
